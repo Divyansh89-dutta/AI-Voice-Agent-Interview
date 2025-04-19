@@ -12,7 +12,6 @@ interface Feedback {
   finalAssessment: string;
   createdAt: string;
 }
-
 interface Interview {
   id: string;
   role: string;
