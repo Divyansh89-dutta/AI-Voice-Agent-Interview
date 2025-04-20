@@ -4,7 +4,6 @@ enum MessageTypeEnum {
   FUNCTION_CALL_RESULT = "function-call-result",
   ADD_MESSAGE = "add-message",
 }
-
 enum MessageRoleEnum {
   USER = "user",
   SYSTEM = "system",
